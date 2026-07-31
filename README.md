@@ -308,7 +308,7 @@ If you'd like to improve this project:
 
 # 👨‍💻 Author
 
-**Anuj Yadav**
+**Anuj Kumar**
 
 📧 LinkedIn: *(Add your LinkedIn URL)*
 
